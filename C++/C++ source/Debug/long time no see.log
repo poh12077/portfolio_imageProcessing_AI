@@ -1,0 +1,4 @@
+﻿  Complete1.cpp
+C:\Users\young hwa\Desktop\portfolio\C++\C++ source\Complete1.cpp(25,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\young hwa\Desktop\portfolio\C++\C++ source\Complete1.cpp(62,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  long time no see.vcxproj -> C:\Users\young hwa\Desktop\portfolio\C++\C++ source\Debug\long time no see.exe
